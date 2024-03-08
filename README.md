@@ -25,7 +25,7 @@ The website is structured into several pages, navigable via the header menu. Fee
 I welcome contributions to my personal website. If you have suggestions for improvements, bug reports, or would like to contribute content, please open an issue or submit a pull request.
 
 #### License
-This project is open source and available under the [MIT License](LICENSE.md).
+This project is open source and available under the [MIT License](LICENSE).
 
 #### Contact
 If you'd like to contact me, please send an email to [chongyef@gmail.com](mailto:chongyef@gmail.com), or use the contact form on the website.
