@@ -13,8 +13,8 @@ Welcome to the repository for my personal website! This site serves as my digita
 To clone and run this website locally, follow these steps:
 
 ```bash
-git clone https://github.com/TsukiTiger/TsukiTiger.github.io.git
-cd TsukiTiger.github.io
+git clone https://github.com/TsukiTiger/chongyef.github.io.git
+cd chongyef.github.io
 # Open index.html in your web browser
 ```
 
